@@ -1,4 +1,4 @@
-% This is a sample code to solve week8 quiz 7
+% This is a sample code to solve quiz 7 of week8 homework. 
 % Here is a link to quizz: https://class.coursera.org/digital-002/quiz/feedback?submission_id=31776
 % Here is a link to iamge "Cameraman256.bmp": https://d396qusza40orc.cloudfront.net/digital/images/week8_quizzes/Cameraman256.bmp
 
