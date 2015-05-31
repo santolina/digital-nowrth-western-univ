@@ -40,6 +40,8 @@ end
 figure, plot(I);
 
 H = double(0);
+
+% the value of I(SIZE) is NaN, so tentatively endNum = SIZE-1 is used. should be fixed.
 for i = 1 : SIZE-1
     H = H + double(I(i));
 end
